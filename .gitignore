@@ -1,0 +1,11 @@
+node_modules
+build
+bower_components
+typings
+.tmp
+src/.tmp
+src/vendor
+npm-debug.log
+./**/*.DS_Store
+.DS_Store
+

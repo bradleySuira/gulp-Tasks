@@ -1,0 +1,31 @@
+{
+  "name": "Gulp Tasks",
+  "version": "1.0.0",
+  "main": "index.html",
+  "authors": [
+    "Bradley Suira"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "build/vendor",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "angular": "~1.4.3",
+    "bootstrap": "~3.3.5",
+    "angular-toastr": "~1.4.1",
+    "angular-ui-router": "~0.2.15",
+    "angular-sanitize": "~1.4.3",
+    "ngstorage": "~0.3.7",
+    "angular-bootstrap": "~0.13.2",
+    "angular-animate": "~1.4.3",
+    "ng-messages": "*",
+    "ng-file-upload-shim": "~6.2.1",
+    "ng-file-upload": "~6.2.1"
+  }
+}
